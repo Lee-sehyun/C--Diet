@@ -12,7 +12,7 @@ int main(){
 
     // 시작해보자!
     if (N%2 == 1) cout << "SK";
-    else cout << "CY" 
+    else cout << "CY" ;
 
 
     return 0;
